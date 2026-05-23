@@ -46,7 +46,7 @@ Silent OS-level app-switch tracker that detects inefficient workflow patterns â€
 
 **ML / AI**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0077B5?style=flat-square&logo=data:image/png;base64,)
+![XGBoost](https://img.shields.io/badge/XGBoost-0077B5?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
@@ -69,19 +69,6 @@ Silent OS-level app-switch tracker that detects inefficient workflow patterns â€
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmulyaPingili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmulyaPingili&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmulyaPingili&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
