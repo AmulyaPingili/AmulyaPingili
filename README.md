@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=30+XGBoost+models+for+California+air+quality;Text-to-SQL+agents+%7C+RAG+%7C+Ethical+AI+pipelines;186K+parcels+narrowed+to+20+data+center+sites;M.S.+Data+Science%2C+Analytics+%26+Engineering+%C2%B7+ASU+%2726" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=30+XGBoost+models+for+California+air+quality;Text-to-SQL+agents+%7C+RAG+%7C+Ethical+AI+pipelines;186K+parcels+narrowed+to+20+data+center+sites;M.S.+Data+Science%2C+Analytics+%26+Engineering+%C2%B7+Arizona+State+University" alt="Typing SVG" />
 
 ## Sai Amulya Pingili
 
@@ -14,28 +14,55 @@ Data Scientist · AI Engineer · United States
 
 ---
 
-- 9 months in production AI engineering at ASU — built Text-to-SQL agents, RAG pipelines, ETL systems, and NLP-powered automation
-- Full ML lifecycle experience: data engineering, model development, evaluation, and cloud deployment (AWS, Azure)
-- Delivered analysis and dashboards across 2.1M+ rows; strong in Python, SQL, and stakeholder-facing reporting
-- Business Analyst on a Mastercard Foundation RAG chatbot — requirements gathering, intern coordination, progress tracking
-- Village Hacks winner · [Sun Award](https://uto.asu.edu/sun-award) recipient · 4 hackathons in Spring 2026
-- Open to **Data Science** and **AI Engineer** roles
+I’m a data scientist and AI engineer with an M.S. in Data Science, Analytics, and Engineering from Arizona State University. I build machine learning systems, LLM applications, data pipelines, and analytics tools that turn complex data into usable products.
+
+Most of my work has been around production AI systems, Text-to-SQL agents, RAG pipelines, ETL workflows, NLP automation, forecasting, and dashboards. I enjoy taking messy problems, shaping the data, building the model or pipeline, and turning the result into something people can actually use.
+
+I’m open to Data Science and AI Engineer roles.
+
+---
+
+### Highlights
+
+- 9 months of production AI engineering experience with ASU Enterprise Technology
+- Built Text-to-SQL agents, RAG pipelines, ETL systems, and NLP-powered automation
+- Full ML lifecycle experience across data engineering, modeling, evaluation, and deployment
+- Delivered dashboards and analysis across 2.1M+ rows
+- Strong working experience with Python, SQL, AWS, Azure, FastAPI, React, and Power BI
+- Business Analyst on a Mastercard Foundation RAG chatbot, supporting requirements, intern coordination, and progress tracking
+- Village Hacks winner, [Sun Award](https://uto.asu.edu/sun-award) recipient, and participant in 4 hackathons during Spring 2026
 
 ---
 
 ### Work
 
-**ASU Enterprise Technology — AI Acceleration Team** &nbsp;·&nbsp; *AI Innovation Intern, Aug 2024 – May 2025*  
-Built a Text-to-SQL agentic system evaluated across 39 questions, an Ethical AI data pipeline (JSON → SageMaker → Redshift), and a Slack bot for automated feature/bug classification. Researched and presented Topic Modeling with LLMs including cost analysis. Served as Business Analyst on a Mastercard Foundation RAG chatbot. Received the [Sun Award](https://uto.asu.edu/sun-award) from ASU's Director of Enterprise Planning for self-initiated quality work.
+#### ASU Enterprise Technology, AI Acceleration Team  
+*AI Innovation Intern · Aug 2024 – May 2025*
 
-**[Breathe California](https://breathe-california.vercel.app)** &nbsp;·&nbsp; *2025–26, Masters Capstone*  
-Real-time AQI forecasting for 43 California counties. 30 XGBoost models on 2.1M rows — hourly MAE 2.34 µg/m³, 25% better than baseline. Groq AI assistant embedded in the dashboard. FastAPI + React + Azure.
+Worked on production AI systems for enterprise use cases at ASU. Built a Text-to-SQL agentic system evaluated across 39 questions, developed an Ethical AI data pipeline from JSON to SageMaker to Redshift, and created a Slack bot for automated feature and bug classification.
 
-**[ExoHabit](https://github.com/AmulyaPingili/Predicting_alien_worlds)** &nbsp;·&nbsp; *2023–24, Bachelors Capstone*  
-LightGBM classifier on NASA exoplanet data with physics-based feature engineering. Optuna hyperparameter search, 95% accuracy, F1 0.9. Streamlit dashboard for exploring habitable-zone candidates.
+I also researched and presented Topic Modeling with LLMs, including cost analysis, and served as Business Analyst on a Mastercard Foundation RAG chatbot. I received the [Sun Award](https://uto.asu.edu/sun-award) from ASU’s Director of Enterprise Planning for self-initiated quality work.
 
-**[POP — Performance Optimisation Planner](https://github.com/bhawan-kumar/Pop)** &nbsp;·&nbsp; *🏆 Winner, Village Hacks — UcheNova Track*  
-Silent OS-level app-switch tracker that detects inefficient workflow patterns — no screenshots, no microphone. Uses Claude Computer Use to guide users through fixes via cursor automation, with ElevenLabs voice notifications. Targets ~55 min/day lost to redundant tool-switching.
+#### [Breathe California](https://breathe-california.vercel.app)  
+*Masters Capstone · 2025–26*
+
+Built a real-time AQI forecasting platform for 43 California counties using 30 XGBoost models trained on 2.1M rows. The system achieved an hourly MAE of 2.34 µg/m³, performing 25% better than the baseline.
+
+The project includes a dashboard with an embedded Groq AI assistant, built with FastAPI, React, and Azure.
+
+#### [ExoHabit](https://github.com/AmulyaPingili/Predicting_alien_worlds)  
+*Bachelors Capstone · 2023–24*
+
+Built a LightGBM classifier on NASA exoplanet data to identify potentially habitable exoplanets. The project used physics-based feature engineering and Optuna hyperparameter tuning, achieving 95% accuracy and an F1 score of 0.9.
+
+I also created a Streamlit dashboard to explore habitable-zone candidates.
+
+#### [POP: Performance Optimisation Planner](https://github.com/bhawan-kumar/Pop)  
+*Winner, Village Hacks · UcheNova Track*
+
+Built a silent OS-level app-switch tracker to identify inefficient workflow patterns. The system does not use screenshots or microphone input. It uses Claude Computer Use to guide users through workflow fixes with cursor automation and ElevenLabs voice notifications.
+
+The project targets the estimated 55 minutes per day lost to redundant tool switching.
 
 ---
 
@@ -77,5 +104,5 @@ Silent OS-level app-switch tracker that detects inefficient workflow patterns �
 ---
 
 <div align="center">
-  <i>Open to DS / AI roles — ASU May 2026 Graduate</i>
+  <i>Open to Data Science and AI Engineer roles · M.S. Data Science, Analytics & Engineering · Arizona State University</i>
 </div>
