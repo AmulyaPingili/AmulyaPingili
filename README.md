@@ -14,15 +14,19 @@ Data Scientist · AI Engineer · United States
 
 ---
 
-Most ML projects live in notebooks. Mine ship.
-
-I work across predictive modeling, LLM agents, RAG pipelines, and geospatial ML. Nine months building production AI tools at ASU's AI Acceleration Team. Four hackathons in Spring 2026, including a Village Hacks win. [Sun Award](https://uto.asu.edu/sun-award) recipient for self-initiated quality work.
-
-Open to data science and AI engineering roles.
+- 9 months in production AI engineering at ASU — built Text-to-SQL agents, RAG pipelines, ETL systems, and NLP-powered automation
+- Full ML lifecycle experience: data engineering, model development, evaluation, and cloud deployment (AWS, Azure)
+- Delivered analysis and dashboards across 2.1M+ rows; strong in Python, SQL, and stakeholder-facing reporting
+- Business Analyst on a Mastercard Foundation RAG chatbot — requirements gathering, intern coordination, progress tracking
+- Village Hacks winner · [Sun Award](https://uto.asu.edu/sun-award) recipient · 4 hackathons in Spring 2026
+- Open to **Data Science** and **AI Engineer** roles
 
 ---
 
 ### Work
+
+**ASU Enterprise Technology — AI Acceleration Team** &nbsp;·&nbsp; *AI Innovation Intern, Aug 2024 – May 2025*  
+Built a Text-to-SQL agentic system evaluated across 39 questions, an Ethical AI data pipeline (JSON → SageMaker → Redshift), and a Slack bot for automated feature/bug classification. Researched and presented Topic Modeling with LLMs including cost analysis. Served as Business Analyst on a Mastercard Foundation RAG chatbot. Received the [Sun Award](https://uto.asu.edu/sun-award) from ASU's Director of Enterprise Planning for self-initiated quality work.
 
 **[Breathe California](https://breathe-california.vercel.app)** &nbsp;·&nbsp; *2025–26, Masters Capstone*  
 Real-time AQI forecasting for 43 California counties. 30 XGBoost models on 2.1M rows — hourly MAE 2.34 µg/m³, 25% better than baseline. Groq AI assistant embedded in the dashboard. FastAPI + React + Azure.
